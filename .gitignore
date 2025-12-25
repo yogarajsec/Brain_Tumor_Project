@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# ML model & numpy files
+Brain_Tumors.h5
+*.h5
+class_names.npy
+*.npy
+
+# Dataset
+dataset/
+dataset/**
+Training/
+Testing/
+
+# Flask uploads (optional)
+static/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
