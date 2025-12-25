@@ -137,10 +137,10 @@ This project is suitable for:
 - Machine Learning Lab
 
 
-## ✨ Author
+##  Author
 Yogaraj  
 Computer Science Student
 
 
-## 📜 License
+##  License
 This project is created for educational purposes only.
