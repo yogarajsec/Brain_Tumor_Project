@@ -121,7 +121,7 @@ http://127.0.0.1:5000/
 
 Upload MRI image and get prediction result.
 
----
+
 
 ##  Important Notes
 - Brain_Tumors.h5 is not uploaded to GitHub due to size limit
