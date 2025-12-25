@@ -1,11 +1,10 @@
-# 🧠 Brain Tumor Classification using CNN & Flask
+# Brain Tumor Classification using CNN & Flask
 
 This project is a Brain Tumor Classification system developed using Convolutional Neural Networks (CNN) and deployed using Flask as a web application.  
 Users can upload an MRI image and the system predicts the type of brain tumor.
 
----
 
-## 🚀 Features
+##  Features
 - CNN-based Brain Tumor Classification
 - MRI image upload and prediction
 - Flask web interface
@@ -14,9 +13,9 @@ Users can upload an MRI image and the system predicts the type of brain tumor.
 - Works on CPU and GPU
 - Simple UI for students and mini projects
 
----
 
-## 🛠️ Technologies Used
+
+##  Technologies Used
 - Python 3.9
 - TensorFlow 2.9.1
 - Keras
@@ -28,9 +27,8 @@ Users can upload an MRI image and the system predicts the type of brain tumor.
 - HTML & CSS
 - VS Code
 
----
 
-## 📂 Project Structure
+## Project Structure
 
 Brain_Tumor_Project/
 │── app.py  
@@ -48,9 +46,9 @@ Brain_Tumor_Project/
 │── .gitignore  
 │── README.md  
 
----
 
-## 📥 Dataset
+
+##  Dataset
 
 The dataset contains MRI images categorized into different brain tumor classes.
 
@@ -71,9 +69,9 @@ dataset/
 Dataset source:
 - Kaggle – Brain Tumor MRI Dataset
 
----
 
-## ⚙️ Installation & Setup
+
+##  Installation & Setup
 
 1. Clone the repository
 
@@ -89,9 +87,9 @@ venv\Scripts\activate
 
 pip install tensorflow==2.9.1 flask opencv-python numpy matplotlib pillow scikit-learn
 
----
 
-## 🧠 Train the Model
+
+##  Train the Model
 
 python main.py  
 
@@ -102,9 +100,9 @@ This will generate:
 - Brain_Tumors.h5
 - class_names.npy
 
----
 
-## 🧪 Test Image (Without Training)
+
+##  Test Image (Without Training)
 
 python main.py  
 
@@ -113,9 +111,8 @@ Choose:
 
 Enter the image path when prompted.
 
----
 
-## 🌐 Run Flask Web Application
+##  Run Flask Web Application
 
 python app.py  
 
@@ -126,27 +123,24 @@ Upload MRI image and get prediction result.
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 - Brain_Tumors.h5 is not uploaded to GitHub due to size limit
 - Dataset is ignored in GitHub
 - Train the model locally before testing
 
----
 
-## 👨‍🎓 Academic Use
+##  Academic Use
 This project is suitable for:
 - Mini Project
 - Final Year Project
 - Deep Learning Lab
 - Machine Learning Lab
 
----
 
 ## ✨ Author
 Yogaraj  
 Computer Science Student
 
----
 
 ## 📜 License
 This project is created for educational purposes only.
