@@ -1,6 +1,5 @@
 # =============================
 # Brain Tumor Classification
-# Modified to run in VS Code (Local PC)
 # TensorFlow 2.9.1
 # =============================
 
